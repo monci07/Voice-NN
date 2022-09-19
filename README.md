@@ -6,7 +6,7 @@ The objective of this project is use a NN to recognize a key-word and once it he
 
 ## Planning
 The tecnologys I decided to use are:
-* Jupyter notebook to cunduct the training of the models.
+* Jupyter notebook to conduct the training of the models.
 * For the audio I decided to use pyaudio.
 * For the NN will be the Tensorflow API.
 * For the final aplication will be scripted in python.  
