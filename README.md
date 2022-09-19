@@ -11,7 +11,7 @@ The tecnologys I decided to use are:
 * For the NN will be the Tensorflow API.
 * For the final aplication will be scripted in python.  
   
-(These tecnologys are not finals and may change in the future)
+(These technology's are not final and may change in the future)
 
 I divided the project in 4 parts:
 1. Create n number of samples to train the NN for recognicing the key-word. The samples are divided in "negatives" and "positives", at the moment im not quite sure how many of each I will need.
