@@ -23,3 +23,9 @@ I divided the project in 4 parts:
 I will try to keep every thing explained in these README and in each notebook.
 
 As for now the project its in the second part.
+
+### First part
+All the information its  on the jupyter notebook.
+
+### Second part
+Right know the structured model makes a prediction of 70-80% accuracy with a 50-60% loss. I will try to make a way to make the numpy arrays into spectograms to get a lower loss at the time of training.
