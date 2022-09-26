@@ -5,7 +5,7 @@ Speach to text NN project
 The objective of this project is use a NN to recognize a key-word and once it hears it, it will activate the listining part of the program to receive an order.
 
 ## Planning
-The tecnologys I decided to use are:
+The tecnologies I decided to use are:
 * Jupyter notebook to conduct the training of the models.
 * For the audio I decided to use pyaudio.
 * For the NN will be the Tensorflow API.
