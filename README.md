@@ -29,3 +29,6 @@ All the information its  on the jupyter notebook.
 
 ### Second part
 Right know the structured model makes a prediction of 70-80% accuracy with a 50-60% loss. I will try to make a way to make the numpy arrays into spectograms to get a lower loss at the time of training.
+
+#### **_UPDATE as of 09/26/2022_**
+Tried with a spectogram data set for the training, got much less the same result, so i will continue to try a different approach. Got a train loss: 0.5251 and a train accuracy: 0.7880. and on a dev test got a loss: 0.4785 and accuracy: 0.8150.
