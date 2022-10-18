@@ -32,3 +32,6 @@ Right know the structured model makes a prediction of 70-80% accuracy with a 50-
 
 #### **_UPDATE as of 09/26/2022_**
 Tried with a spectogram data set for the training, got much less the same result, so i will continue to try a different approach. Got a train loss: 0.5251 and a train accuracy: 0.7880. and on a dev test got a loss: 0.4785 and accuracy: 0.8150.
+
+#### **_UPDATE as of 10/17/2022_**
+Returned to my original idea of using the data almost raw(i just tourned the bytes intow floats) and make the NN a little deeper, got to see a improvement in the training but a deficit in the dev/test. Got a train loss: 0.5215 and a train accuracy: 0.8080, and on a dev test got a loss: 0.5194 and accuracy: 0.7980.
