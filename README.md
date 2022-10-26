@@ -13,16 +13,17 @@ The tecnologies I decided to use are:
   
 (These technology's are not final and may change in the future)
 
-I divided the project in 4 parts:
+I divided the project in 5 parts:
 1. Create n number of samples to train the NN for recognicing the key-word. The samples are divided in "negatives" and "positives", at the moment im not quite sure how many of each I will need.
 2. Experiment with different type of recursive NN structures to be able to predict when the computer recieves the activation word.
 3. Ones the previous step is done, its time to create a data-set of words.
 4. Here is either two options:
    1. Change the last layer of the previous NN to predict letters and form words.
    2. Use a whole new NN.
+5. Put it all together.
 I will try to keep every thing explained in these README and in each notebook.
 
-As for now the project its in the second part.
+As for now the project its in the third part.
 
 ### First part
 All the information its  on the jupyter notebook.
@@ -38,3 +39,5 @@ Returned to my original idea of using the data almost raw(i just turned the byte
 
 #### **_UPDATE as of 10/23/2022_**
 Following the last update, and analizing the data better, I started to work on changing the learning rate to see any kind of improvement. After much testing got a perfect lerning rate that got me a train loss of 0.0803 and a accuracy of 0.9705, and a dev/test loss of 0.0337 and a accuracy: 1.0000, I will try using it in a normal python code.
+
+For all the information, it will be in the Jupiter notebook
