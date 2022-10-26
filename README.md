@@ -30,7 +30,7 @@ As for now the project its in the third part.
 All the information its  on the jupyter notebook.
 
 ### Second part
-For all the information, it will be in the Jupiter notebook. Nextm its the progressed made in this part of the project.
+For all the information, it will be in the Jupiter notebook. Next its the progressed made in this part of the project.
 
 #### **_UPDATE as of 09/26/2022_**
 Tried with a spectogram data set for the training, got much less the same result, so i will continue to try a different approach. Got a train loss: 0.5251 and a train accuracy: 0.7880. and on a dev/test got a loss: 0.4785 and accuracy: 0.8150.
