@@ -21,6 +21,7 @@ I divided the project in 5 parts:
    1. Change the last layer of the previous NN to predict letters and form words.
    2. Use a whole new NN.
 5. Put it all together.
+
 I will try to keep every thing explained in these README and in each notebook.
 
 As for now the project its in the third part.
