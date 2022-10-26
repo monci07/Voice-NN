@@ -26,6 +26,7 @@ I will try to keep every thing explained in these README and in each notebook.
 
 As for now the project its in the third part.
 
+## Progress
 ### First part
 All the information its  on the jupyter notebook.
 
