@@ -13,14 +13,13 @@ The tecnologies I decided to use are:
   
 (These technology's are not final and may change in the future)
 
-I divided the project in 5 parts:
+I divided the project in 4 parts:
 1. Create n number of samples to train the NN for recognicing the key-word. The samples are divided in "negatives" and "positives", at the moment im not quite sure how many of each I will need.
 2. Experiment with different type of recursive NN structures to be able to predict when the computer recieves the activation word.
-3. Ones the previous step is done, its time to create a data-set of words.
-4. Here is either two options:
+3. Ones the previous step is done, its time to create a data-set of words. Here is either two options:
    1. Change the last layer of the previous NN to predict letters and form words.
    2. Use a whole new NN.
-5. Put it all together.
+4. Put it all together.
 
 I will try to keep every thing explained in these README and in each notebook.
 
